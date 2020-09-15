@@ -1,0 +1,4345 @@
+fileFormatVersion: 2
+guid: b1bc4e7d61480de4090d82ae73130e39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: COVY SPRITE SHEET 3_0
+  - first:
+      213: 21300002
+    second: COVY SPRITE SHEET 3_1
+  - first:
+      213: 21300004
+    second: COVY SPRITE SHEET 3_2
+  - first:
+      213: 21300006
+    second: COVY SPRITE SHEET 3_3
+  - first:
+      213: 21300008
+    second: COVY SPRITE SHEET 3_4
+  - first:
+      213: 21300010
+    second: COVY SPRITE SHEET 3_5
+  - first:
+      213: 21300012
+    second: COVY SPRITE SHEET 3_6
+  - first:
+      213: 21300014
+    second: COVY SPRITE SHEET 3_7
+  - first:
+      213: 21300016
+    second: COVY SPRITE SHEET 3_8
+  - first:
+      213: 21300018
+    second: COVY SPRITE SHEET 3_9
+  - first:
+      213: 21300020
+    second: COVY SPRITE SHEET 3_10
+  - first:
+      213: 21300022
+    second: COVY SPRITE SHEET 3_11
+  - first:
+      213: 21300024
+    second: COVY SPRITE SHEET 3_12
+  - first:
+      213: 21300026
+    second: COVY SPRITE SHEET 3_13
+  - first:
+      213: 21300028
+    second: COVY SPRITE SHEET 3_14
+  - first:
+      213: 21300030
+    second: COVY SPRITE SHEET 3_15
+  - first:
+      213: 21300032
+    second: COVY SPRITE SHEET 3_16
+  - first:
+      213: 21300034
+    second: COVY SPRITE SHEET 3_17
+  - first:
+      213: 21300036
+    second: COVY SPRITE SHEET 3_18
+  - first:
+      213: 21300038
+    second: COVY SPRITE SHEET 3_19
+  - first:
+      213: 21300040
+    second: COVY SPRITE SHEET 3_20
+  - first:
+      213: 21300042
+    second: COVY SPRITE SHEET 3_21
+  - first:
+      213: 21300044
+    second: COVY SPRITE SHEET 3_22
+  - first:
+      213: 21300046
+    second: COVY SPRITE SHEET 3_23
+  - first:
+      213: 21300048
+    second: COVY SPRITE SHEET 3_24
+  - first:
+      213: 21300050
+    second: COVY SPRITE SHEET 3_25
+  - first:
+      213: 21300052
+    second: COVY SPRITE SHEET 3_26
+  - first:
+      213: 21300054
+    second: COVY SPRITE SHEET 3_27
+  - first:
+      213: 21300056
+    second: COVY SPRITE SHEET 3_28
+  - first:
+      213: 21300058
+    second: COVY SPRITE SHEET 3_29
+  - first:
+      213: 21300060
+    second: COVY SPRITE SHEET 3_30
+  - first:
+      213: 21300062
+    second: COVY SPRITE SHEET 3_31
+  - first:
+      213: 21300064
+    second: COVY SPRITE SHEET 3_32
+  - first:
+      213: 21300066
+    second: COVY SPRITE SHEET 3_33
+  - first:
+      213: 21300068
+    second: COVY SPRITE SHEET 3_34
+  - first:
+      213: 21300070
+    second: COVY SPRITE SHEET 3_35
+  - first:
+      213: 21300072
+    second: COVY SPRITE SHEET 3_36
+  - first:
+      213: 21300074
+    second: COVY SPRITE SHEET 3_37
+  - first:
+      213: 21300076
+    second: COVY SPRITE SHEET 3_58
+  - first:
+      213: 21300078
+    second: COVY SPRITE SHEET 3_59
+  - first:
+      213: 21300080
+    second: COVY SPRITE SHEET 3_60
+  - first:
+      213: 21300082
+    second: COVY SPRITE SHEET 3_61
+  - first:
+      213: 21300084
+    second: COVY SPRITE SHEET 3_62
+  - first:
+      213: 21300086
+    second: COVY SPRITE SHEET 3_63
+  - first:
+      213: 21300088
+    second: COVY SPRITE SHEET 3_64
+  - first:
+      213: 21300090
+    second: COVY SPRITE SHEET 3_65
+  - first:
+      213: 21300092
+    second: COVY SPRITE SHEET 3_66
+  - first:
+      213: 21300094
+    second: COVY SPRITE SHEET 3_67
+  - first:
+      213: 21300096
+    second: COVY SPRITE SHEET 3_68
+  - first:
+      213: 21300098
+    second: COVY SPRITE SHEET 3_69
+  - first:
+      213: 21300100
+    second: COVY SPRITE SHEET 3_70
+  - first:
+      213: 21300102
+    second: COVY SPRITE SHEET 3_71
+  - first:
+      213: 21300104
+    second: COVY SPRITE SHEET 3_72
+  - first:
+      213: 21300106
+    second: COVY SPRITE SHEET 3_73
+  - first:
+      213: 21300108
+    second: COVY SPRITE SHEET 3_74
+  - first:
+      213: 21300110
+    second: COVY SPRITE SHEET 3_75
+  - first:
+      213: 21300112
+    second: COVY SPRITE SHEET 3_76
+  - first:
+      213: 21300114
+    second: COVY SPRITE SHEET 3_77
+  - first:
+      213: 21300116
+    second: COVY SPRITE SHEET 3_78
+  - first:
+      213: 21300118
+    second: COVY SPRITE SHEET 3_79
+  - first:
+      213: 21300120
+    second: COVY SPRITE SHEET 3_80
+  - first:
+      213: 21300122
+    second: COVY SPRITE SHEET 3_81
+  - first:
+      213: 21300124
+    second: COVY SPRITE SHEET 3_82
+  - first:
+      213: 21300126
+    second: COVY SPRITE SHEET 3_87
+  - first:
+      213: 21300128
+    second: COVY SPRITE SHEET 3_88
+  - first:
+      213: 21300130
+    second: COVY SPRITE SHEET 3_101
+  - first:
+      213: 21300132
+    second: COVY SPRITE SHEET 3_102
+  - first:
+      213: 21300134
+    second: COVY SPRITE SHEET 3_103
+  - first:
+      213: 21300136
+    second: COVY SPRITE SHEET 3_104
+  - first:
+      213: 21300138
+    second: COVY SPRITE SHEET 3_105
+  - first:
+      213: 21300140
+    second: COVY SPRITE SHEET 3_106
+  - first:
+      213: 21300142
+    second: COVY SPRITE SHEET 3_107
+  - first:
+      213: 21300144
+    second: COVY SPRITE SHEET 3_108
+  - first:
+      213: 21300146
+    second: COVY SPRITE SHEET 3_109
+  - first:
+      213: 21300148
+    second: COVY SPRITE SHEET 3_110
+  - first:
+      213: 21300150
+    second: COVY SPRITE SHEET 3_111
+  - first:
+      213: 21300152
+    second: COVY SPRITE SHEET 3_112
+  - first:
+      213: 21300154
+    second: COVY SPRITE SHEET 3_113
+  - first:
+      213: 21300156
+    second: COVY SPRITE SHEET 3_114
+  - first:
+      213: 21300158
+    second: COVY SPRITE SHEET 3_115
+  - first:
+      213: 21300160
+    second: COVY SPRITE SHEET 3_116
+  - first:
+      213: 21300162
+    second: COVY SPRITE SHEET 3_117
+  - first:
+      213: 21300164
+    second: COVY SPRITE SHEET 3_118
+  - first:
+      213: 21300166
+    second: COVY SPRITE SHEET 3_119
+  - first:
+      213: 21300168
+    second: COVY SPRITE SHEET 3_120
+  - first:
+      213: 21300170
+    second: COVY SPRITE SHEET 3_121
+  - first:
+      213: 21300172
+    second: COVY SPRITE SHEET 3_122
+  - first:
+      213: 21300174
+    second: COVY SPRITE SHEET 3_123
+  - first:
+      213: 21300176
+    second: COVY SPRITE SHEET 3_124
+  - first:
+      213: 21300178
+    second: COVY SPRITE SHEET 3_125
+  - first:
+      213: 21300180
+    second: COVY SPRITE SHEET 3_126
+  - first:
+      213: 21300182
+    second: COVY SPRITE SHEET 3_127
+  - first:
+      213: 21300184
+    second: COVY SPRITE SHEET 3_128
+  - first:
+      213: 21300186
+    second: COVY SPRITE SHEET 3_129
+  - first:
+      213: 21300188
+    second: COVY SPRITE SHEET 3_130
+  - first:
+      213: 21300190
+    second: COVY SPRITE SHEET 3_131
+  - first:
+      213: 21300192
+    second: COVY SPRITE SHEET 3_132
+  - first:
+      213: 21300194
+    second: COVY SPRITE SHEET 3_133
+  - first:
+      213: 21300196
+    second: COVY SPRITE SHEET 3_134
+  - first:
+      213: 21300198
+    second: COVY SPRITE SHEET 3_135
+  - first:
+      213: 21300200
+    second: COVY SPRITE SHEET 3_136
+  - first:
+      213: 21300202
+    second: COVY SPRITE SHEET 3_137
+  - first:
+      213: 21300204
+    second: COVY SPRITE SHEET 3_138
+  - first:
+      213: 21300206
+    second: COVY SPRITE SHEET 3_139
+  - first:
+      213: 21300208
+    second: COVY SPRITE SHEET 3_140
+  - first:
+      213: 21300210
+    second: COVY SPRITE SHEET 3_141
+  - first:
+      213: 21300212
+    second: COVY SPRITE SHEET 3_142
+  - first:
+      213: 21300214
+    second: COVY SPRITE SHEET 3_143
+  - first:
+      213: 21300216
+    second: COVY SPRITE SHEET 3_162
+  - first:
+      213: 21300218
+    second: COVY SPRITE SHEET 3_163
+  - first:
+      213: 21300220
+    second: COVY SPRITE SHEET 3_164
+  - first:
+      213: 21300222
+    second: COVY SPRITE SHEET 3_165
+  - first:
+      213: 21300224
+    second: COVY SPRITE SHEET 3_166
+  - first:
+      213: 21300226
+    second: COVY SPRITE SHEET 3_167
+  - first:
+      213: 21300228
+    second: COVY SPRITE SHEET 3_168
+  - first:
+      213: 21300230
+    second: COVY SPRITE SHEET 3_169
+  - first:
+      213: 21300232
+    second: COVY SPRITE SHEET 3_170
+  - first:
+      213: 21300234
+    second: COVY SPRITE SHEET 3_171
+  - first:
+      213: 21300236
+    second: COVY SPRITE SHEET 3_172
+  - first:
+      213: 21300238
+    second: COVY SPRITE SHEET 3_173
+  - first:
+      213: 21300240
+    second: COVY SPRITE SHEET 3_174
+  - first:
+      213: 21300242
+    second: COVY SPRITE SHEET 3_175
+  - first:
+      213: 21300244
+    second: COVY SPRITE SHEET 3_176
+  - first:
+      213: 21300246
+    second: COVY SPRITE SHEET 3_177
+  - first:
+      213: 21300248
+    second: COVY SPRITE SHEET 3_178
+  - first:
+      213: 21300250
+    second: COVY SPRITE SHEET 3_179
+  - first:
+      213: 21300252
+    second: COVY SPRITE SHEET 3_180
+  - first:
+      213: 21300254
+    second: COVY SPRITE SHEET 3_181
+  - first:
+      213: 21300256
+    second: COVY SPRITE SHEET 3_182
+  - first:
+      213: 21300258
+    second: COVY SPRITE SHEET 3_183
+  - first:
+      213: 21300260
+    second: COVY SPRITE SHEET 3_184
+  - first:
+      213: 21300262
+    second: COVY SPRITE SHEET 3_185
+  - first:
+      213: 21300264
+    second: COVY SPRITE SHEET 3_186
+  - first:
+      213: 21300266
+    second: COVY SPRITE SHEET 3_187
+  - first:
+      213: 21300268
+    second: COVY SPRITE SHEET 3_188
+  - first:
+      213: 21300270
+    second: COVY SPRITE SHEET 3_189
+  - first:
+      213: 21300272
+    second: COVY SPRITE SHEET 3_190
+  - first:
+      213: 21300274
+    second: COVY SPRITE SHEET 3_191
+  - first:
+      213: 21300276
+    second: COVY SPRITE SHEET 3_192
+  - first:
+      213: 21300278
+    second: COVY SPRITE SHEET 3_193
+  - first:
+      213: 21300280
+    second: COVY SPRITE SHEET 3_194
+  - first:
+      213: 21300282
+    second: COVY SPRITE SHEET 3_195
+  - first:
+      213: 21300284
+    second: COVY SPRITE SHEET 3_196
+  - first:
+      213: 21300286
+    second: COVY SPRITE SHEET 3_217
+  - first:
+      213: 21300288
+    second: COVY SPRITE SHEET 3_218
+  - first:
+      213: 21300290
+    second: COVY SPRITE SHEET 3_219
+  - first:
+      213: 21300292
+    second: COVY SPRITE SHEET 3_220
+  - first:
+      213: 21300294
+    second: COVY SPRITE SHEET 3_221
+  - first:
+      213: 21300296
+    second: COVY SPRITE SHEET 3_222
+  - first:
+      213: 21300298
+    second: COVY SPRITE SHEET 3_223
+  - first:
+      213: 21300300
+    second: COVY SPRITE SHEET 3_224
+  - first:
+      213: 21300302
+    second: COVY SPRITE SHEET 3_225
+  - first:
+      213: 21300304
+    second: COVY SPRITE SHEET 3_226
+  - first:
+      213: 21300306
+    second: COVY SPRITE SHEET 3_227
+  - first:
+      213: 21300308
+    second: COVY SPRITE SHEET 3_228
+  - first:
+      213: 21300310
+    second: COVY SPRITE SHEET 3_229
+  - first:
+      213: 21300312
+    second: COVY SPRITE SHEET 3_230
+  - first:
+      213: 21300314
+    second: COVY SPRITE SHEET 3_231
+  - first:
+      213: 21300316
+    second: COVY SPRITE SHEET 3_232
+  - first:
+      213: 21300318
+    second: COVY SPRITE SHEET 3_233
+  - first:
+      213: 21300320
+    second: COVY SPRITE SHEET 3_234
+  - first:
+      213: 21300322
+    second: COVY SPRITE SHEET 3_235
+  - first:
+      213: 21300324
+    second: COVY SPRITE SHEET 3_236
+  - first:
+      213: 21300326
+    second: COVY SPRITE SHEET 3_237
+  - first:
+      213: 21300328
+    second: COVY SPRITE SHEET 3_238
+  - first:
+      213: 21300330
+    second: COVY SPRITE SHEET 3_239
+  - first:
+      213: 21300332
+    second: COVY SPRITE SHEET 3_240
+  - first:
+      213: 21300334
+    second: COVY SPRITE SHEET 3_241
+  - first:
+      213: 21300336
+    second: COVY SPRITE SHEET 3_242
+  - first:
+      213: 21300338
+    second: COVY SPRITE SHEET 3_243
+  - first:
+      213: 21300340
+    second: COVY SPRITE SHEET 3_244
+  - first:
+      213: 21300342
+    second: COVY SPRITE SHEET 3_245
+  - first:
+      213: 21300344
+    second: COVY SPRITE SHEET 3_246
+  - first:
+      213: 21300346
+    second: COVY SPRITE SHEET 3_247
+  - first:
+      213: 21300348
+    second: COVY SPRITE SHEET 3_248
+  - first:
+      213: 21300350
+    second: COVY SPRITE SHEET 3_249
+  - first:
+      213: 21300352
+    second: COVY SPRITE SHEET 3_250
+  - first:
+      213: 21300354
+    second: COVY SPRITE SHEET 3_269
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1923
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dddcfcaeaa763440893fe78d199a5d8
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1923
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ab209e752ad7c46afd9b6b2ea8a5c6
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1919
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16974f3327bd4fb4ab0673b825832ec8
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1923
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd9f34d298b601438b0b10df3254736
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1923
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c71b91d897f2f4caa29752606bbb87
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_5
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1923
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ab130a9ca85542842b97f77259553
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_6
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1919
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c7ee673a46fbe44bfc59b8e1d5958f
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_7
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1923
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2c44434f7f405419fff112a5d14d89
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1923
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e3e6476bfb606408e740067a41641e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_9
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1923
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d27128ada27d94f8780e84906fe41b
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1814
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c8707ad91f2554ca01211dd82277bc
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1812
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d8c424517fc7c42a0b2539f36db785
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1814
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c818fae30c44143b98d7215381fdba
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1812
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52727390701bc4e98355734c20af12
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1814
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3ece709e57cd14c86d67f386d6f854
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1812
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f49abd8f104a8d458930a7bdffd0335
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_16
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1814
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9e52aa545d4864d87514446ea145a0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_17
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1808
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf05f8ce7584b44697c895dab0a3967
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1676
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2f4a02be2229f4e9e9b80b9369ae63
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1677
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4cc0f963d76b84b89e0ca10d4a0eb9
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1678
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645e72b05cc5e9741843a1c4984139e1
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1678
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7510ce6af155a7146b3d46743f9603d9
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1677
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf48144280931424c9ff1c0cd40ff30b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_23
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1678
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26684474eef14da44987636a8538fdda
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_24
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1677
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb00908dbc2df9b4ab037906283fcd6b
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_25
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1677
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471cd078208c258478075b108d9275b4
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1560
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdb497eb744f5a41b0838e20180fb3d
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1560
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faa4e8c955097b40853ad74250fece7
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1560
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71907c503c7284389ff1bcd2c6bd8b
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1560
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46faf2dd71c5e3b4488904a6d4b92da0
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_30
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1560
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f56f2e77fa0739439c5d569399f2e11
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_31
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1560
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1294d0b13d4d44aa76c9e44579e51d
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_32
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1560
+        width: 95
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67029dc76763dff40bb2eec001262c51
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_33
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1560
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0612dc25d0246074fa180bc9e2b128bf
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1390
+        width: 103
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba58affd2e8c52b4dac21669fe76f0b4
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1390
+        width: 103
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2234f0057bdbd045a9aaba49279263c
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1390
+        width: 103
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fee5ceda8cb224380854d56e28d6b3
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1390
+        width: 103
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a436bf1dcca254f902c69363c4742b
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1259
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5825d6c1c69e2c49b202f09bca0eca7
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1259
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f23a377becdb64bb60cc7fd1053c31
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_60
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1259
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c68fb8fb573774fa5cff29c4abaf75
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_61
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1259
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91bea557f77fb94090f8694318b8d69
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_62
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1259
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1968f7944e24d7f448c297f941564167
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_63
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1259
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038c9f2e125064d4880ba90fddf50d70
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_64
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1259
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c448b4d44c60149ae3b381e956c6ca
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_65
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1259
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8314585e7b974df42956deed2f492596
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_66
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1259
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349e6c2fab2734f4fa0ca0790c0745f5
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_67
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1259
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc62b0bc7c1ab084b8807a00930778fa
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_68
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1259
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505ddd45b2d3ce44b2dddf29233d7d8
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_69
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1259
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8700e02dc685f942ae2969d27af23bf
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1165
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7eddd23ea80f9468985b40641360d4
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_71
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1079
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1392fb720d40aed41b5ad66d69bf7e89
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_72
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1078
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e0f3f2bb9d3e4f802fd477f4676d8
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1079
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa273e56afbcb140ab79b1edd70ebb6
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_74
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1079
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcce40e6f11fba04a875fb137a863a0d
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_75
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1079
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df55a488409f874baefa9fdf295b915
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_76
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1079
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18751147b2514ac44bbefa44b1fdcf83
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_77
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1096
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea3d4e0aab2334f9e33b5835e17ff6
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_78
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1096
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44486f056bb8e9f4aa1a3a45519466ed
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_79
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1096
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593de8266767f7142a95deccfa5fd72d
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_80
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1096
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bdba25064a5834b871c987cf2a364a
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_81
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1079
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169fc1b73c468f24a9c8b03110c2e1d4
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_82
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1079
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959492d0e5c69124583f83ca0ec9e42e
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_101
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 979
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d50c70dc8aaf214a8e62e231504d97d
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_102
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 979
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ee0700f83118542993f07e59e5e789
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_103
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 979
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c363fef4574e3d41ac853193be10914
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_104
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 979
+        width: 101
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1dd3a6395a2f74aab8dd52903854a0
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_105
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 979
+        width: 101
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a266b3daf59b4a7419db8374c13f9f64
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_106
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 979
+        width: 101
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533ca225f9e7f98418647dfcc1db8936
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_107
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 979
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e7e37e226d1914ea340e786572cf7b
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_108
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 979
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9860ad4edd2ed3b4196456bd06173baa
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_109
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 870
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ce253a296d8c4fb4f563450591af2
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_110
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 870
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79f17c7030b98040950e2936690c04d
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_111
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 870
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafc180ffb92bb74c89d0ed48fe8f7c4
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_112
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 870
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c653d2d3db18343906a6244124c1ba
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_113
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 870
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94ebf654049f8b4fac2802836d092f5
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_114
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 870
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db602986d8fa4274eab3f5b090ea0a36
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_115
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 864
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a250d0738c6f214ca51cd821343bdd4
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_116
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 864
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeae6f092dee3a44aba00bd13a1f420
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_117
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 860
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3a32b0307deae4b9e816840ab086db
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_118
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 860
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc5023105e063f43ba66fe190cf74ed
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_119
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 860
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e3ffb953258b14e8d128e0e3528d4f
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_120
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 860
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff27596e945aee34188291bea09762c2
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_121
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 860
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ee4b48c8984314884118f62c24207b
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_122
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 860
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1959667f547050641944e1143da9face
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_123
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 860
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22697bda17f50c44b48798cc8b6dc14
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_124
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 772
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a58091df8f03940953b7d4c13d8956
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_125
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 769
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de9b3ab7371de74dad2b115d2e8f821
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_126
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 779
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ee70c87b0358f4f866cbbaeb27af51
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_127
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 781
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05badbb0f467f574c90868ec0448bc0d
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_128
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 779
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650c3eff000bdf459f036fb109fc99a
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_129
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 779
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b95deba51f7834c94684c776f0d644
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_130
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 779
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874135e5694a9b444b2d92eee71c5635
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_131
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 772
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d561f0aaf4fc245901460b11915693
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_132
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 666
+        width: 74
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab3f08414533074f82e9b32861aa769
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_133
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 666
+        width: 74
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5612b41911331142a6b729d6bd48899
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_134
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 666
+        width: 74
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6173aa97e5201bc45ad90f6f38fae0f8
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_135
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 666
+        width: 74
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3804754255f5d234ba7bf8354a5494ae
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_136
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 666
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e7b96102fcadc4cb70bdd4f58ec7d0
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_137
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 666
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dfb8273f3b922429a45e2cdef06bfd
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_138
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 666
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb814f305c9c544891cf61348234a63
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_139
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 666
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291092c36d35ea04bbb399ab4717b1ad
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_140
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 666
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2680a642bc498469d13f32053be9c3
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_141
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 666
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d64b6b5b92810e4fa661d0b050e7526
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_142
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 666
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edcf354354e42e488c0c3c65b2b3a12
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_143
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 666
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43024d477e0c42e49b97776f02dba62f
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_162
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 546
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd94fd0fca47e64fa394f21bf90ba89
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_163
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 544
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b5dc3a3929b7840b4329ecb324abdd
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_164
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 546
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5944ced69baecaa438c0882b8842cc4f
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_165
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 546
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75284f924c3e354eb7e5d6d854e37a1
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 546
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8aa7793ebc63f4a952cbcfc86339ef
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_167
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 544
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77741f3feb376d4bba57ec3543de941
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_168
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 546
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce360b11c34a2df4d96eda2328c81469
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_169
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 546
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1918337e5aff1142830913a5519fca1
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_170
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 546
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4279e15b7ae553e4a80e73c4c860aecb
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_171
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 544
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7723768a5bf70de4581f6c6a2ac159f2
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_172
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 546
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fc80b7330972a4da068653694d7f08
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_173
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 546
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc471ce69a0c91409916490d96e8e42
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_174
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 546
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8b9cb6f561d264baa7b03e409b0804
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_175
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 546
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856dc1b7b9647f44a99fe8829b35770e
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_176
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 446
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4440c0aada51cc46b6d2a0b6c689bbf
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_177
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 448
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a7b78a873bea04c9a4d76318cf2fd4
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_178
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 444
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc81832dbef2c2a4b9e74858f42bf56c
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_179
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 454
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8080ad5047cf498b2a72e273a81f8
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_180
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 454
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234700b2be8afeb46abf93893b713ac7
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_181
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 448
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f113606ff4f53c4194f0560f03b30f0
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_182
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 446
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40841ec131cb1124ca5916917b02fc5d
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_183
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 444
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bc505f0453f6b4792aab72d11f4e97
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_184
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 435
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b999cba5ba975042a770c617df5bea9
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_185
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 340
+        width: 73
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a87091e0eae34d95d4f95456e4392
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_186
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 340
+        width: 73
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858344c95d653964eabfc8f267f192cc
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_187
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 340
+        width: 73
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61067c9e7b42ec54bb0bd2ae5609c6e5
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_188
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 340
+        width: 73
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf049f20a172234eb8f3715f701f320
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_189
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 331
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7909eaff45681f745b97e299dcc91e88
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_190
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 331
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1457d4ce8a582964ebce75db3247fda3
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_191
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 331
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051cfa1fbb40fd2469a36ed6fc1f6d1c
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_192
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 331
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ed05f1cda1874ab19888f142417a5
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_193
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 331
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4502305c0b38c8d4ca32571935fc205b
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_194
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 331
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b958c9a5eb0134fa886f6d2f4558f8
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_195
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 331
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3235eb1a0f321f4f9fb4b619da97d7f
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_196
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 331
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd8fc733eb3173498b13e7fd4fa8c54
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_217
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 214
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f73022072b65140a323de08c807482
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_218
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 214
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aeb2e2e194b0441aabc55ab0989a92
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_219
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 214
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bd962e7b1fc3042a124699f53ff8ba
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_220
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 212
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde8343c2b6845d42935b3ffd31a37ae
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_221
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 215
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b88e530132e2d4d89a40698bffdcc9
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_222
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 214
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f031ff4c2f3b0154d9f25699182b909a
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_223
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 214
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec70ce2a2e6067a48bc676578d868c26
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_224
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 213
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d48ba857a6cfc146b036f87e49dbeb5
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_225
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 215
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fb58e3672681c489d0e597b5d51be3
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_226
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 212
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858a78511160964ba1fcec82ab7782f
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_227
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 214
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d124ebdccb332bb4db75ca7ced8b292e
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_228
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 214
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41d1e2d0b6664843ab2dc970a17fb74
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_229
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 214
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acb393b8140af54e92e893f5c652205
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_230
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 214
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121a2c041d4784945a23fecdf5c01fba
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_231
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 122
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd96eb4319f7ef9428a63b773ded6a13
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_232
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc7640393f6e449b634bdf0b89ebb0
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_233
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 122
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce29323ca822ef489ac014ac255fc65
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_234
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 122
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2923b79f0ea5dbd48873f954a3618d05
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_235
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 122
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4384b04d354841a2d85348e14431c
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_236
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 122
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46b7e2240712e54f9668537da8fc7ff
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_237
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 119
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad2078ace73afb4092c69061a8947e0
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_238
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 119
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17a6ed695c6cd046b4a8538a7464446
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_239
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 21
+        width: 73
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69acacee9048334e91d9ba7c6b19f09
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_240
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 21
+        width: 73
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788e766c7b390c748ac225d7d37d9ca2
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_241
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 21
+        width: 73
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc133c8c1716ef542a146357f22c8619
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_242
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 21
+        width: 73
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d675ad058d55fd74a8386a87668df915
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_243
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db68e8ccbe12ac74ba5937e965967475
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_244
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae85c31ed4c6d74fb1553d357bd8b3b
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_245
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 18
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81531f71413acf243ab08ad0f73d8e72
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_246
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 18
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e1e27f65b38644ea29a2dcf91f8a27
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_247
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 18
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde355322c940448b9de5c7bc70e1ff
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_248
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 18
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd598ae2d67a4df4eae9560c4b79a7b7
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_249
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 18
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a820b3f5325a1e5469933fffa88457dd
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_250
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 18
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4428a327df56658429c20897fa4b0339
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVY SPRITE SHEET 3_269
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 214
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2869017102c15b4cb5795c244af1c7c
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 606f3676e4264804cb907cd39eb9fbfa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
